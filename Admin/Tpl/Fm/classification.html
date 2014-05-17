@@ -1,0 +1,70 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/classification.css" />
+	<load file="__PUBLIC__/Js/classification.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">FM电台</h2>
+	</div>
+	<div id="count">
+		<ul class="musicClass">
+			<volist name="classList" id="vo">
+				<if condition="$vo.classID neq 9" > 
+					<li><a href="__URL__/musicSearch/class/<{$vo.classID}>"><{$vo.className}> MHz</a></li>
+				</if>
+			</volist>
+			<li><a href="__URL__/musicSearch/class/9">未分类 MHz</a></li>
+			<li><a href="__URL__/musicSearch/class/all">全　部 MHz</a></li>
+		</ul>
+		<ul class="countbar">
+			<volist name="classList" id="vo" key="k">
+				<if condition="$vo.classID neq 9" > 
+					<li style="background:<{$colorList[$k-1]}>; width:<{$percentList[$k-1]}>;">
+						<{$countList[$k-1]}>
+					</li>
+				<else />
+					<assign name="unclassified" value="$k-1" />  <!-- 记录未分类目录的下标 -->
+				</if>
+			</volist>
+			<!-- 未分类标签 -->
+			<li id="sum" style="background:#666364; width:<{$percentList[$unclassified]}>;"> 
+				<{$countList[$unclassified]}>
+			</li>
+			<!-- 全部标签 -->
+			<li id="sum" style="background:#A11D03; width:100%;"><{$sum}></li>   
+		</ul>
+
+		<p>科大电台音乐数量统计表</p>
+	</div>
+	<div id="addClass">
+		<h2 class="module-head">添加新分类目录</h2>
+		<form action="__URL__/addClass" method="post" id="new-class">
+			<label>名　称:</label>
+			<input type="text" class="new-class-input" name="classname"/>
+			<input type="submit" class="_submit" value="添加"/>
+		</form>
+	</div>
+	<div id="opt-class">
+		<h2 class="module-head">分类目录</h2>
+		<div class="opt-content">
+			<p class="description">
+				<b>注意：</b>删除分类目录不会把该分类目录下的歌曲一并删除。歌曲会被归入“未分类”分类目录。
+			</p>
+			<volist name="classList" id="vo" key="k">
+				<if condition="$vo.classID neq 9" > 
+					<div class="item">
+						<font><{$vo.className}> MHz</font>
+						<form action="__URL__/modifyClass" method="post" name="modifyform">
+							<input type="text" name="newClassName"/>
+							<input type="hidden" value="<{$vo.classID}>" name="classID"/>
+							<a href="__URL__/modifyClass/id/<{$vo.classID}>" class="modify" >修改</a>
+						</form>
+						<a href="__URL__/deleteClass/id/<{$vo.classID}>" id="delete" onclick="return confirm('确定删除该分类目录吗?');">删除</a>
+					</div>
+				</if>
+			</volist>
+		</div>
+	</div>
+</block>

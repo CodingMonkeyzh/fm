@@ -1,0 +1,40 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/chatroom.css" />
+	<load file="__PUBLIC__/Css/records.css" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">聊天室</h2>
+	</div>
+	<div id="tablenav">
+		<form action="__URL__/recordSearch" method="get" id="search">
+			<input type="text" placeholder="输入关键词" name="key"/>
+			<input type="submit" value="查询" class="_submit"/>
+		</form>
+	</div>
+	<table class="list-table">
+		<thead>
+			<tr>
+				<th class="userNumber">学号</th>
+				<th class="content">内容</th>
+				<th class="datetime">时间</th>
+				<th class="option">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+			<volist name="recordlist" id="vo" key="k">
+				<tr>
+					<td class="userNumber"><a href="__URL__/records/user/<{$vo.speaker}>"><{$vo.speaker}></a></td>
+					<td class="content"><{$vo.content}></td>
+					<td class="datetime"><{$vo.time}></td>
+					<td class="option">
+						<a href="__URL__/deleteRecord/id/<{$vo.id}>">删除</a>
+					</td>
+				</tr>
+			</volist>
+		</tbody>
+	</table>
+	<div id="display-num"><p><{$k|default=0}> 条记录</p></div>
+</block>

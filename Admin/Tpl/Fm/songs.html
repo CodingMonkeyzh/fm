@@ -1,0 +1,59 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/songs.css" />
+	<load file="__PUBLIC__/Js/songs.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">FM电台<a href="__URL__/upload">上传歌曲</a></h2>
+	</div>
+	<div id="tablenav">
+		<form action="__URL__/musicSearch" method="get" id="filter">
+			<select name="class">
+				<option value="all">全部</option>
+				<volist name="classList" id="vo">
+					<option value="<{$vo.classID}>"><{$vo.className}></option>
+				</volist>
+			</select>
+			<input type="submit" value="筛选" class="_submit"/>
+		</form>
+		<form id="search" method="get" action="__URL__/musicSearch">
+			<input class="search-input" type="text" name="key" placeholder="输入歌名、歌手名">
+			<input class="_submit" type="submit" value="搜索">
+		</form>
+	</div>
+	<table class="list-table">
+		<thead>
+			<tr>
+				<th class="name">歌名</th>
+				<th class="classification">分类</th>
+				<th class="singer">歌手</th>
+				<th class="album">专辑</th>
+				<th class="pub-date">发布时间</th>
+				<th class="option">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+			<volist name="musicList" id="vo" key="k">
+				<tr>
+					<td class="name">
+						<a href="#" onclick="play(<{$vo.musicID}>,'<{$vo.musicName}>')" title="<{$vo.URL}>/<{$vo.musicID}>.mp3">
+							<{$vo.musicName}>
+						</a>
+					</td>
+					<td class="classification"><a href="__URL__/musicSearch/class/<{$vo.musicClass}>"><{$vo.className}></a></td>
+					<td class="singer"><a href="__URL__/musicSearch/key/<{$vo.musicSinger}>"><{$vo.musicSinger}></a></td>
+					<td class="album"><{$vo.musicAlbum}></td>
+					<td class="pub-date"><{$vo.musicPub}></td>
+					<td class="option">
+						<a href="#" onclick="play(<{$vo.musicID}>,'<{$vo.musicName}>')">播放</a>
+						<a href="__URL__/edit/id/<{$vo.musicID}>">编辑</a>
+						<a href="__URL__/musicDelete/id/<{$vo.musicID}>" onclick="return confirm('确定删除该首歌曲?');">删除</a>
+					</td>
+				</tr>
+			</volist>
+		</tbody>
+	</table>
+	<div id="display-num"><p><{$k|default="0"}> 首歌曲</p></div>
+</block>

@@ -1,0 +1,74 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/administrator.css" />
+	<load file="__PUBLIC__/Js/administrator.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">帐户管理</h2>
+	</div>
+	<div id="tablenav">
+		<form action="__URL__/administrator" method="get" id="filter">
+			<select name="role">
+				<option value="all">全部</option>
+				<option value="0">管理员</option>
+				<option value="1">超级管理员</option>
+			</select>
+			<input type="submit" value="筛选" class="_submit"/>
+		</form>
+		<form action="__URL__/adminSearch" method="get" id="search">
+			<input type="text" placeholder="用户名、昵称或邮箱" name="key"/>
+			<input type="submit" value="查询" class="search-submit"/>
+		</form>
+	</div>
+	<table class="list-table">
+		<thead>
+			<tr>
+				<th class="username">用户名</th>
+				<th class="email">邮箱</th>
+				<th class="nikename">昵称</th>
+				<th class="role">角色</th>
+				<if condition="$privilege eq 1">
+					<th class="option">操作</th>
+				</if>
+			</tr>
+		</thead>
+		<tbody>
+			<volist name="adminList" id="vo" key="k">
+				<tr>
+					<td class="username"><{$vo.adminName}></td>
+					<td class="email"><{$vo.email}></td>
+					<td class="nikename"><{$vo.nikeName}></td>
+					<td class="role">
+						<if condition="$vo.privilege eq 1">
+							<assign name="super" value="selected" />
+							<assign name="common" value="" />
+							 <a href="__URL__/administrator/role/1" class="ad">超级管理员</a> 
+						<else />
+							<assign name="super" value="" />
+							<assign name="common" value="selected" />
+							<a href="__URL__/administrator/role/0" class="ad">管理员</a>
+						</if>
+						<div class="change_privilege">
+							<select id="privilege_item" name="role">
+								<option value="0" <{$common}>>管理员</option>
+								<option value="1" <{$super}>>超级管理员</option>
+							</select>
+							<input type="hidden" value="<{$vo.adminName}>" id="adname" />
+							<a href="#" class="change_cancle">取消</a>
+						</div>
+					</td>
+					<if condition="$privilege eq 1">
+						<td class="option">
+							<a href="#" class="edit-privilege">编辑权限</a>
+							<a href="__URL__/adminDelete/admin/<{$vo.adminName}>" onclick="return confirm('确定要删除该管理员吗？');">删除</a>
+						</td>
+					</if>
+				</tr>
+			</volist>
+		</tbody>
+	</table>
+	<a href="__URL__/add" id="addAdmin"><button class="_submit"><font>+</font>添加管理员</button></a>
+	<div id="display-num"><p><{$k|default="0"}> 位管理员</p></div>
+</block>

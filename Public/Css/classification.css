@@ -1,0 +1,156 @@
+#head{
+    width: 100%;
+    float: left;
+    padding-bottom: 4px;
+    border-bottom: 1px solid  #ddd;
+}
+#icon{
+	width: 36px;
+	height: 36px;
+	background: url("../Images/icon-radio.png") no-repeat center;
+	float: left;
+}
+h2.head-title{
+	color: #898989;
+    display: inline-block;
+    float: left;
+    font-size: 25px;
+    line-height: 36px;
+    padding: 0 1em;
+}
+#count{
+	margin: 1em 0 0 1em;
+	width: 65%;
+	float: left;
+}
+#count ul{
+	float: left;
+	list-style: none;
+}
+#count ul.musicClass{
+	width: 25%;
+}
+#count ul.musicClass li a{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 0.5em 0;
+	*padding: 12px 0;
+	display: block;
+	color: #1972CA;
+	font-weight: bolder;
+	text-shadow: 1px 1px 1px #666;
+}
+#count ul.musicClass li a:hover{
+	color: orange;
+	text-decoration: underline;
+}
+#count ul.countbar{
+	width: 74%;
+}
+#count ul.countbar li{
+	font-size: 20px;
+	padding: 0.5em 0;
+	display: block;
+	color: #FFFFFF;
+	font-weight: bolder;
+	margin: 0;
+}
+#count p{
+	color: #898989;
+	float: left;
+	margin: 30px 200px;
+	font-size: 15px;
+}
+#addClass{
+	margin-top: 10px;
+	width: 33%;
+	float: right;
+}
+h2.module-head{
+	padding: 0.5em 0.5em;
+	background: #ddd;
+	color: #1972CA;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px #787878;
+	border-radius: 3px 3px 0 0;
+}
+#new-class{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	width: 99.5%;
+	border: 1px solid #ddd;
+	float: right;
+}
+#new-class label{
+	font-size: 20px;
+	color: #666;
+	float: left;
+	padding-top: 7px;
+	padding-right: 10px;
+}
+#new-class input.new-class-input{
+	height: 28px;
+	float: left;
+}
+#new-class input[type='submit']{
+	background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3;
+    border:1px solid #BBBBBB;
+    border-radius: 3px 3px 3px 3px;
+    color: #333333;
+    cursor: pointer;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    padding: 0 5px;
+    white-space: nowrap;
+    margin-right: 5px;
+    float: right;
+}
+#opt-class{
+	margin-top: 50px;
+	width: 33%;
+	float: right;
+}
+div.opt-content{
+	width: 100%;
+	height: auto;
+	border: 1px solid #ddd;
+	padding-bottom: 20px;
+	float: left;
+}
+.opt-content p.description{
+	padding-top: 10px !important;
+	padding-left: 10px;
+	float: left;
+}
+div.item{
+	margin-top: 5px;
+	float: left;
+	line-height: 25px;
+	width: 100%;
+}
+div.item font{
+	font-size: 15px;
+	padding: 3px 0px 0 5px;
+	float: left;
+	width: 30%;
+}
+div.item form{
+	width: 50%;
+	float: left;
+}
+div.item form input{
+	float: left;
+	height: 25px;
+	font-size: 13px;
+	width: 70%;
+}
+div.item a{
+	font-size: 13px;
+	text-decoration: none;
+	color: #1B6CBB;
+	margin-left: 3px;
+}
+div.item a:hover{
+	text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/add.css" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">帐户管理</h2>
+	</div>
+	<h2 id="head-title">添加管理员</h2>
+	<form action="__URL__/adminAdd" method="post" id="infoform">
+		<span>
+			<label>用户名</label>
+			<input type="text" value="<{$admin.adminName}>" name="adminname"/>
+			(<font color="red">*</font>)
+		</span>
+		<span>
+			<label>新密码</label>
+			<input type="password" value="" name="passwd"/>
+			(<font color="red">*</font>)
+		</span>
+		<span>
+			<label>重复新密码</label>
+			<input type="password" value="" name="repasswd"/>
+			(<font color="red">*</font>)
+		</span>
+		<span>
+			<label>角色</label>
+			<select name="role">
+				<option valuue="0">管理员</option>
+				<option valuue="1">超级管理员</option>
+			</select>
+		</span>
+		<h2>个人信息</h2>
+		<span>
+			<label>姓名</label>
+			<input type="text" value="<{$admin.name}>" name="name"/>
+		</span>
+		<span>
+			<label>昵称</label>
+			<input type="text" value="<{$admin.nikeName}>" name="nikename"/>
+			(<font color="red">*</font>)　用于显示的名称
+		</span>
+		<span>
+			<label>邮箱</label>
+			<input type="text" value="<{$admin.email}>" name="email"/>
+			(<font color="red">*</font>)
+		</span>
+		<input type="submit" value="添加" id="submit"/>
+	</form>
+</block>

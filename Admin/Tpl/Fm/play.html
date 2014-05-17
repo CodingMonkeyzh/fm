@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>伤城</title>
+	<load file="__PUBLIC__/Js/jquery.js" />
+	<load file="__PUBLIC__/Js/mediaelement-and-player.min.js" />
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('#audio-player').mediaelementplayer(
+            alwaysShowControls: true,
+            features: ['playpause','volume','progress'],
+            audioVolume: 'horizontal',
+            audioWidth: 360,
+            audioHeight: 250,
+        });
+	});
+	</script>
+<head>
+<body>
+	<audio id="audio-player" controls="controls" autoplay preload>
+		<source src="__PUBLIC__/songs/伤城.mp3" />
+	</audio>
+
+</body>
+</html>

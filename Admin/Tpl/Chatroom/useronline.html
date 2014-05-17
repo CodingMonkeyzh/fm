@@ -1,0 +1,48 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/chatroom.css" />
+	<load file="__PUBLIC__/Css/useronline.css" />
+	<load file="__PUBLIC__/Js/useronline.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">聊天室</h2>
+	</div>
+	<div id="tablenav">
+		<form action="__URL__/userSearch" method="get" id="search">
+			<input type="text" placeholder="输入用户名" name="key"/>
+			<input type="submit" value="查询" class="_submit"/>
+		</form>
+	</div>
+	<table class="list-table">
+		<thead>
+			<tr>
+				<th class="userNumber">学号</th>
+				<th class="username">用户名</th>
+				<th class="email">邮箱</th>
+				<th class="sex">性别</th>
+				<th class="option">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+			<volist name="onlinelist" id="vo" key="k">
+				<tr>
+					<td class="userNumber"><a href="__URL__/records/user/<{$vo.userNumber}>"><{$vo.userNumber}></a></td>
+					<td class="username"><{$vo.userName}></td>
+					<td class="email"><{$vo.userEmail}></td>
+					<td class="sex"><{$vo.userSex}></td>
+					<td class="option">
+						<a href="__URL__/records/user/<{$vo.userNumber}>">聊天记录</a>
+						<if condition="$vo.ban eq 0">
+							<a href="#" class="wordspeak">禁言</a>
+						<else />
+							<a href="#" class="wordspeak">恢复</a>
+						</if>
+					</td>
+				</tr>
+			</volist>
+		</tbody>
+	</table>
+	<div id="display-num"><p><{$k|default=0}> 位用户在线</p></div>
+</block>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>释放青春 - 科大FM</title>
+	<link rel="SHORTCUT ICON" href="__PUBLIC__/Images/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/cssreset-min.css">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/fm.css">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/userDetail.css">
+	<script src="__PUBLIC__/Js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Js/mediaelement-and-player.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Js/jQueryRotate.js"></script>
+	<script src="__PUBLIC__/Js/music.js"></script>
+	<link href="__PUBLIC__/Css/font-awesome.css" rel="stylesheet">
+	<script src="__PUBLIC__/Js/userDetail.js"></script>
+	<script src="__PUBLIC__/Js/jquery.form.js"></script>
+
+
+</head>
+<body>
+	<input type="hidden" value="<{$Think.session.user}>" id="userNo" />
+	<div id="section1">
+		<div class="userInfo">
+			<p><i class="icon-heart"></i> 你已收藏 <span><{$collection|default=0}></span> 首歌曲</p> | <a href="__APP__/Manage/logout"><i class="icon-off"></i> 退出</a>| <a id="userSetting" href="#"><i class="icon-cog"></i> 设置</a>
+		</div>
+		<div class="logo">
+			<a href="" title="科大FM">科大FM</a>
+		</div>
+
+		<div class="audio-player">
+			<div class="cover">
+				<div class="play">
+					<a href="#" class="playCtl"></a>
+				</div>
+				<img id="coverImage" src="__PUBLIC__/Images/defaultCover.jpg" />
+			</div>
+			<div class="songInfo">
+				<input type="hidden" id="musicID" value="">
+				<h2 id="musicSinger">Loading..</h2>
+				<span id="musicAlbum">Loading..</span>
+				<h2 id="musicName">Loading..</h2>
+				<span id="like" class="icon" title="收藏"><i class="icon-heart icon-2x"></i></span>
+				<span id="hate" class="icon" title="删除"><i class="icon-trash icon-2x"></i></span>
+				<span id="nextSong" class="icon" title="下一首"><i class="icon-fast-forward icon-2x"></i></span>
+			</div>
+			<a class="similarMusicWrap" href="#">相似歌曲</a>
+			<audio id="audio-player" src="__PUBLIC__/Songs/27.mp3" type="audio/mpeg" controls="controls"></audio>
+		</div>
+	</div>
+	<!-- end of section1 -->
+	<div id="listMain">
+		<div id="listContainer">
+			<div class="list">
+				<ul>
+					<li id="0"><i class="icon icon-heart" style="color:#e74c3c"></i> 喜欢</li>
+					<volist name="classList" id="vo">
+						<if condition="$vo.classID neq 9">
+							<if condition="$vo.classID eq 1">
+								<li class="active" id="<{$vo.classID}>"><{$vo.className}></li>
+							<else />
+								<li id="<{$vo.classID}>"><{$vo.className}></li>
+							</if>
+						</if>
+					</volist>
+				</ul>
+			</div>	
+		</div>
+	</div>
+	<!-- end of listMain -->
+		<div id="sidebar">
+		<div id="sidebarMain">
+			<div class="sideNav">
+				<ul>
+					<li class="active">完善信息 <i class="icon-pencil"></i></li>
+					<li>更改密码 <i class="icon-unlock-alt"></i></li>
+				</ul>
+			</div>
+			<div class="contain">
+				<div class="completeInfo">
+					<h2>完善个人信息</h2>
+					<form action="__APP__/Manage/updateInfo" id="updateUserInfo" name="updateUserInfo" method="post" enctype="multipart/form-data">
+						<input type="hidden" value="<{$Think.session.user}>" name="userNumber"/>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										<div id="localImag">
+											<img src="__PUBLIC__/Photos/<{$userInfo.userNumber|default='default'}>.jpg"  width="70px" height="70px" alt="个人头像" id="img_prev">
+										</div>
+									</td>
+									<td>
+										<label class="userImageLabel" for="userImage">更换头像</label>
+									</td>
+									<td>	
+										<input type="file" id="userImage" value="更换头像" name="photo" onchange="readURL(this)">
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<label>性别</label>
+									</td>
+									<td colspan="3">
+										<if condition="$userInfo.userSex eq '男'">
+											<span>男 </span><input type="radio" name="sex" value="男" checked>
+											<span>女 </span><input type="radio" name="sex" value="女">
+										<else />
+											<span>男 </span><input type="radio" name="sex" value="男">
+											<span>女 </span><input type="radio" name="sex" value="女" checked>
+										</if>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<label>出生日期</label>
+									</td>
+									<td colspan="3">
+										<input type="date" name="birthday" value="<{$userInfo.userBirthday}>">
+										<font>格式: 1975-08-08</font>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<label>电子邮件</label>
+									</td>
+									<td colspan="3">
+										<input type="email" name="email" value="<{$userInfo.userEmail}>">
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<label>个人说明</label>
+									</td>
+									<td colspan="3">
+										<textarea name="explanation" id="" cols="40" rows="5"><{$userInfo.userExplanation}></textarea>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<button type="submit" id="toSubmitInfo">提交</button>
+					</form>
+					<div class="error">
+						<p>错误提示消息</p>
+					</div>
+				</div>
+				<div class="changePswd">
+					<h2>更改密码</h2>
+					<form action="__APP__/Manage/changePaswd" id="updateUserPass" name="updateUserPass" method="post">
+						<input type="password" placeholder="请输入当前密码" name="c_paswd" value=""><br />
+						<input type="password" placeholder="请输入新密码" name="n_paswd" value=""><br />
+						<input type="password" placeholder="请再次输入" name="ren_paswd" value=""><br />
+						<button type="submit" id="toSubmitChange">提交</button>
+					</form>
+					<div class="error">
+						<p>错误提示消息</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<div id="sidebarCtl">
+			<div class="ctlBtn">
+				<span><i class="icon-chevron-right"></i></span>
+			</div>
+		</div>
+	</div>
+	<!-- end of sidebar -->
+	<div id="chatroom">
+		<div class="chatRoomHeader">
+			<!-- 电台聊天室 -->
+			<img src="__PUBLIC__/Photos/<{$userPhoto}>.jpg" width="70px" height="70px">
+			<h3><{$Think.session.username}></h3>
+			<p>-<{$userExplanation|default="该用户还没有填写个性签名."}></p>
+			<span id="chatRoomCtl" title="展开"><i class="icon-angle-up icon-2x"></i></span>
+		</div>
+		<div class="chatRoomRcv">
+		</div>
+
+		<div class="chatRoomSend">
+			<input id="msgContent" type="text" name="msgContent" placeholder="请输入消息." />
+			<input id="sendMsg" type="submit" name="sendMsg" value="发送" title="发送消息" />
+		</div>
+	</div>
+	<!-- end of chatroom -->
+	<div id="wrap">
+		<div class="linkArea">
+			<a href="http://hnust.0xiao.com/shop/index.html"  target="_blank"><i class="icon-shopping-cart"></i> 校园购物</a>
+			<a href="http://www.hnust.edu.cn/ShowContent.asp?ArtFlag=xxjj" target="_blank"><i class="icon-smile"></i> 了解科大</a>
+		</div>
+	</div>
+	<!-- end of wrap -->
+
+	<div id="similarMusicInfo">
+		关键字:
+		<div class="keyword">空中,每当,越过,和会,谎言,迷失,夜里,拥抱,勇气,能否</div>
+		情感程度:
+		<div class="emotionLevel">0,0,0,8,0,0,3,0,0,0,0,0</div>
+	</div>
+</body>
+</html>

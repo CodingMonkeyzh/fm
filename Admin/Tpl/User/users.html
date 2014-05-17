@@ -1,0 +1,46 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/users.css" />
+	<load file="__PUBLIC__/Js/chatroom.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">帐户管理</h2>
+	</div>
+	<div id="tablenav">
+		<form action="" method="get" id="search">
+			<input type="text" placeholder="输入用户名、邮箱"/>
+			<input type="submit" value="查询" class="_submit"/>
+		</form>
+	</div>
+	<table class="list-table">
+		<thead>
+			<tr>
+				<th class="stuNumber">学号</th>
+				<th class="username">用户名</th>
+				<th class="email">邮箱</th>
+				<th class="sex">性别</th>
+				<th class="explanation">个人说明</th>
+				<th class="option">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+			<volist name="userList" id="vo" key="k">
+				<tr>
+					<td class="stuNumber"><a href="#"><{$vo.userNumber}></a></td>
+					<td class="username"><{$vo.userName}></td>
+					<td class="email"><{$vo.userEmail}></td>
+					<td class="sex"><{$vo.userSex}></td>
+					<td class="explanation"><{$vo.userExplanation}></td>
+					<td class="option">
+						<a href="#">聊天记录</a>
+						<a href="#">禁言</a>
+						<a href="#">删除</a>
+					</td>
+				</tr>
+			</volist>
+		</tbody>
+	</table>
+	<div id="display-num"><p><{$k|default=0}> 位用户</p></div>
+</block>

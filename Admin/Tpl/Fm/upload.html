@@ -1,0 +1,71 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/upload.css" />
+	<load file="__PUBLIC__/Js/upload.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">FM电台</h2>
+	</div>
+	<div id="upload">
+		<h2 class="module-head">上传文件</h2>
+		<form action="__URL__/uploadmusic" method="post" id="upload-info" enctype="multipart/form-data">
+			<span>
+				<p><b>注意:</b>上传的音乐文件格式只能为(.mp3)格式，封面图片文件只能为(.jpg)格式，否则无法上传</p>
+			</span>
+			<span>
+				<label>文　　件:</label>
+				<input type="text"  id="scan-fileaddr"/>
+				<input type="button" value="浏览" class="scan" id="bt-scan"/>
+				<input type="file" style="display:none" id="file" name="music"/>
+			</span>
+			<span>
+				<label>分类目录:</label>
+				<select name="musicclass">
+					<volist name="classList" id="vo">
+						<option value="<{$vo.classID}>"><{$vo.className}></option>
+					</volist>
+				</select>
+			</span>
+			<span>
+				<label>歌　　名:</label>
+				<input type="text" name="musicname"/>
+				　　歌曲存储到服务器上目的文件夹下的名称
+			</span>
+			<span>
+				<label>歌　　手:</label>
+				<input type="text" name="musicsinger"/>
+				　　歌手名或者为乐团、组合名称
+			</span>
+			<span>
+				<label>专　　辑:</label>
+				<input type="text" name="musicalbum"/>
+				　　单曲则填写为歌名
+			</span>
+			<span>
+				<label>发布时间:</label>
+				<input type="text" name="musicpub"/>
+				　　格式为:1975-1-1
+			</span>
+			<span>
+				<label class="cover-label">封　　面:</label>
+				<div id="localImag">
+					<img src="" id="img_prev" alt="封面图片"/>
+				</div>
+				<input type="button" value="浏览" class="scan" id="img-scan"/>
+				<input type="file"  style="height:0px;border:0px;width:0px;" title="" id="doc" onchange="readURL(this)" name="image"/>
+			</span>
+			<span>
+				<label>目的地址:</label>
+				<input type="text" readonly id="edit-input" name="musicurl" value="/Public/Songs/"/>
+				<a href="#" class="edit">编辑</a>
+			</span>
+			<span>
+				<label class="lyric_label">歌　　词:</label>
+				<textarea id="lyric" name="lyric"></textarea>
+			</span>
+			<input type="submit" value="上传歌曲" class="_submit"/>
+		</form>
+	</div>
+</block>

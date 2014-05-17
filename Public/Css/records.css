@@ -1,0 +1,16 @@
+.userNumber{
+	font-weight: bold;
+	width: 10%;
+}
+.username{
+	width: 20%;
+}
+.content{
+	width: 45%;
+}
+.datetime{
+	width: 15%;
+}
+.option{
+	width: 20%;
+}

@@ -1,0 +1,154 @@
+#head{
+    width: 100%;
+    float: left;
+    padding-bottom: 1px;
+    border-bottom: 1px solid  #ddd;
+}
+#icon{
+	width: 36px;
+	height: 36px;
+	background: url("../Images/icon-radio.png") no-repeat center;
+	float: left;
+}
+h2.head-title{
+	color: #898989;
+    display: inline-block;
+    float: left;
+    font-size: 25px;
+    line-height: 36px;
+    padding: 0 1em;
+}
+
+h2.head-title a {
+    background: none repeat scroll 0 0 #F1F1F1;
+    border: 0 none;
+    border-radius: 3px 3px 3px 3px;
+    color: #1B6CBB;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 4px;
+    padding: 3px 8px;
+    position: relative;
+    text-decoration: none;
+    top: -3px;
+}
+h2.head-title a:hover{
+	text-decoration: underline;
+	color: orange;
+}
+#tablenav{
+	width: 100%;
+	height: 25px;
+	float: left;
+	margin-top: 10px;
+}
+#filter{
+	display: inline-block;
+	float: left;
+}
+#filter select{
+	width: 100px;
+	height: 25px;
+	font-size: 15px;
+	float: left;
+}
+#tablenav input[type='submit']{
+    background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3;
+    border:1px solid #BBBBBB;
+    border-radius: 3px 3px 3px 3px;
+    color: #333333;
+    cursor: pointer;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 2px;
+    padding: 0 5px;
+    white-space: nowrap;
+}
+#search {
+	float: right;
+    display: inline-block;
+}
+#search input.search-input{
+	border: 1px solid #DDDDDD;
+    float: left;
+    font-size: 15px;
+    height: 24px;
+    width: 150px;
+}
+.list-table{
+	background-color: #F9F9F9;
+    border:1px solid #DFDFDF;
+    table-layout: fixed;
+    border-spacing: 0;
+    clear: both;
+    margin: 0;
+    width: 100%;
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    position: relative;
+    top: 10px;
+}
+.list-table th{
+	background: #eee\9;
+	background: linear-gradient(to top, #ECECEC, #F9F9F9) repeat scroll 0 0 #F1F1F1;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+	color: #555;
+	font-size: 14px;
+    line-height: 1.3em;
+    padding: 7px 7px 8px;
+    text-align: left;
+}
+.list-table th,.list-table td{
+	border-bottom-color: #DFDFDF;
+    border-top-color: #FFFFFF;
+	overflow: hidden;
+	border-style: solid;
+    border-width: 1px 0;
+    word-wrap: break-word;
+}
+.name{
+	font-weight: bolder;
+	width: 20%;
+}
+.classification{
+	width: 5%;
+}
+.singer{
+	width: 10%;
+}
+.album{
+	width: 15%;
+}
+.pub-date{
+	width: 10%;
+}
+.option{
+	width: 20%;
+}
+.list-table tbody tr{
+	background-color: #FCFCFC;
+}
+.list-table tbody td{
+    font-size: 13px;
+    padding: 0.7em 0.5em;
+    vertical-align: top;
+    line-height: inherit;
+}
+.list-table tbody td a{
+	color: #21759B;
+	text-decoration: none;
+}
+.list-table tbody td a:hover{
+	color: orange;
+}
+.option a{
+	margin-left: 10px;
+}
+#display-num{
+	color: #999;
+	font-weight: bolder;
+	font-size: 15px;
+	margin: 20px 10px;
+	float: right;
+}

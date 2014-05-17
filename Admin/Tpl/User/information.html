@@ -1,0 +1,43 @@
+<extend name="Public:module" />
+<block name="script">
+	<load file="__PUBLIC__/Css/information.css" />
+	<load file="__PUBLIC__/Js/information.js" />
+</block>
+<block name="content">
+	<div id="head">
+		<div id="icon"></div>
+		<h2 class="head-title">帐户管理</h2>
+	</div>
+	<h2 id="head-title">个人资料编辑</h2>
+	<form action="__URL__/adminUpdate" method="post" id="infoform">
+		<span>
+			<label>用户名</label>
+			<input type="text" value="<{$admin.adminName}>" readonly name="adminname"/>
+			　　用户名不可更改
+		</span>
+		<span>
+			<label>姓名</label>
+			<input type="text" value="<{$admin.name}>" name="name"/>
+		</span>
+		<span>
+			<label>昵称</label>
+			<input type="text" value="<{$admin.nikeName}>" name="nikename"/>
+			(<font color="red">*</font>)　用于显示的名称
+		</span>
+		<span>
+			<label>邮箱</label>
+			<input type="text" value="<{$admin.email}>" name="email"/>
+			(<font color="red">*</font>)
+		</span>
+		<h2>重置密码</h2>
+		<span>
+			<label>新密码</label>
+			<input type="password" value="" name="passwd"/>
+		</span>
+		<span>
+			<label>重复新密码</label>
+			<input type="password" value="" name="repasswd"/>
+		</span>
+		<input type="submit" value="更新个人资料" id="submit"/>
+	</form>
+</block>

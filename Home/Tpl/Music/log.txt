@@ -1,0 +1,3494 @@
+2013-09-02 16:17:51: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: zYC3AMGeqMUdGYNw4F+YKw==
+Cookie: PHPSESSID=6udinsg0hcdte8omgrfrssths1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:19:44: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: NvDqoZwhQtweMUucsFLEAg==
+Cookie: PHPSESSID=6udinsg0hcdte8omgrfrssths1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:20:23: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: rMYimEz7fjdLX8LFYJVbMA==
+Cookie: PHPSESSID=6udinsg0hcdte8omgrfrssths1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Xb6cBzO3Qu06WFOXevJlDw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+2013-09-02 16:23:41: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: pyBIJ48MGEN9NXc6weyTkg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+2013-09-02 16:24:00: 1005030212(125.221.225.210) has disconnected. 
+2013-09-02 16:24:14: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: oMULDWCG5tjLGuRQQLFgww==
+Cookie: PHPSESSID=6udinsg0hcdte8omgrfrssths1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:24:19: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: SRj4IwpP2Nz0g2xBqvMdlQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+2013-09-02 16:24:28: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: fvQJSqJcsgvAhZAh7+bJow==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=jcpuod3j0cdmajj170vd4vj9s5
+
+ 
+2013-09-02 16:46:15: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: NIUBkyJXS2NZAvmh78NIaA==
+Cookie: PHPSESSID=368j9b75nn5tl7cighmmd6tgg6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:48:23: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: pASg14486YnQsnuaaaGE1Q==
+Cookie: PHPSESSID=368j9b75nn5tl7cighmmd6tgg6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:48:36: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 9Ur/qo22eefKMPmZOAp/YQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+Cookie: PHPSESSID=ph1ilnrmagj4f9bptea22tp6v1
+
+ 
+2013-09-02 16:53:20: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-02 16:53:20','d12') 
+2013-09-02 16:54:06: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: x7AWIsUnkqqm0gkokvICnA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+Cookie: PHPSESSID=ph1ilnrmagj4f9bptea22tp6v1
+
+ 
+2013-09-02 16:54:08: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: mGHd7bxTxB3lC5vru50Q1Q==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+Cookie: PHPSESSID=ph1ilnrmagj4f9bptea22tp6v1
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: zoC7njdq8bnw7ovM3Ldi3g==
+Cookie: PHPSESSID=g9naot2m4uagk16qgstch06ev6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:54:31: 1005030211(125.221.225.154) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: bsiECo6+TO5fE0gnIhZrYQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=jcpuod3j0cdmajj170vd4vj9s5
+
+ 
+2013-09-02 16:54:40: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 16:54:40','saasdasdasd') 
+2013-09-02 16:55:43: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: gzwswHxPZeRVOoaQX+0LZg==
+Cookie: PHPSESSID=g9naot2m4uagk16qgstch06ev6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 16:55:54: 1005030211(125.221.225.154) has disconnected. 
+2013-09-02 17:04:38: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: nbGglq27Ykxg9g5j19poJg==
+Cookie: PHPSESSID=g9naot2m4uagk16qgstch06ev6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 17:10:31: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 17:10:31','') 
+2013-09-02 17:11:09: 1005030211(125.221.225.210) has disconnected. 
+2013-09-02 17:11:45: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: ONphw0pJiyzk1xf+6gol1g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: HA2j5zzPl6IRGmj0SKvqmg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 17:19:42: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 17:19:42','22') 
+2013-09-02 17:23:58: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: /uqMlAgk89rxRa0KDBe+sg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+2013-09-02 17:25:11: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: e489vgGj97v+xWTx+TiMww==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=vci4qbe21jbekd91f1ghicgqv4
+
+ 
+2013-09-02 17:25:24: 1005030211(125.221.225.209) has disconnected. 
+2013-09-02 17:25:43: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: tdKndXusdqHC883M5Rh26A==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 17:27:50: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Nz3/we1mHmj4x+XAYQvxew==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 17:28:00: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: +fewZN3bsWr6jhgoKv1vSg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 17:37:36: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 0Gw5EvsYCkN6Fcqp7JXRNQ==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:17:02: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: jlaFZqqWFdaghxb9xwa62g==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:22:36: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 5fYb5Z+9WV9UeLdb4WJn9w==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Olyr/w+RgBA7FGhBR7EIaA==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:23:04: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:23:04','') 
+2013-09-02 18:23:05: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:23:05','') 
+2013-09-02 18:23:56: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: QgHJR8gJ9Rq8J4kMmw6voQ==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:24:03: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: wzN9hYaKz903jhND3Gma+g==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:24:06: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:24:06','') 
+2013-09-02 18:24:07: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:24:07','') 
+2013-09-02 18:24:30: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: QJtSHIcSU8DuAnoV2akfug==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:24:33: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 5YyTj+vNS0KDeXXauNznNg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:24:39: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:24:39','12') 
+2013-09-02 18:24:58: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Zf13+Aej+rp696NXHCjzWw==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:24:59: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 5nr3+oDZZ4EEC1UKHBatiw==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:25:02: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 18:25:02','') 
+2013-09-02 18:25:12: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: ZDGlnoD9lis2B0RkhZht0Q==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:25:14: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: I2Wq5PhjRNto2IzwLsYn1w==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:28:44: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: mAJF4JvQyjzKBKsIlT8unQ==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:29:21: 1005030211(125.221.225.210) has disconnected. 
+2013-09-02 18:29:22: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Blm4o8nPlqsvG6kTF9Nfvg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:31:46: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: vuoELCH+QW+Wi9XV+vyAhw==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:32:22: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: QwTxlx1cYQ6Gbt+eSQQuHg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:37:06: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 283ndF2IvklxwfM+XksW4g==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:38:17: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 5pPwzQdZMQaWrartISoASQ==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:45:55: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: K0QANzljC0wVAxMWT+SGxg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:51:22: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: ecScPlghi4PjUjfxp9Ldjg==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:52:46: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: Cu3OXjARMzJWVEayExz4+A==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 18:56:22: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: CDdXWUa0gd0/dTCiJJsHcw==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 19:14:36: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: GtyTyYbZNHrmmP4qJvTGnA==
+Cookie: PHPSESSID=m6ia9t0c71mf1v24tpdemj0fp3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 19:23:15: 1005030211(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: VLi3b9rPcymdPYcj5tlinw==
+Cookie: PHPSESSID=b0cbs8764um7v9bqk38kkabbb7
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 19:24:42: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: lHj0atpwF4dh4RpHfn/S1Q==
+Cookie: PHPSESSID=b0cbs8764um7v9bqk38kkabbb7
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 19:27:31: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: sl4L1iuTyhBHcCxvphe18g==
+Cookie: PHPSESSID=sq512c8orb2jdgttb9vos99d42
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 19:31:27: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: QQ+jXE5J91gPpMSpsVBpxA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+Cookie: PHPSESSID=esr0duu3871uj411qnk3upjtf7
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: RzCaRj0ptyoRDLOXX8GuZA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:14:10: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: CXfYsNRlhEB8MNEuG200SQ==
+Connection: Upgrade
+Upgrade: Websocket
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Host: 125.221.225.210:8888
+DNT: 1
+Cache-Control: no-cache
+Cookie: lbbrowser_client_none=none; PHPSESSID=q2ssjl6m039j8bl0ci5qkgu4m4
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: szp+tmY5FDtLDedOkF1jBg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:15:26: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:15:25','你大爷的') 
+2013-09-02 20:16:20: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:16:22','nimei') 
+2013-09-02 20:16:43: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:16:43','刷屏') 
+2013-09-02 20:16:55: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:16:57','刷爆他') 
+2013-09-02 20:16:58: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:16:57','刷屏') 
+2013-09-02 20:17:00: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:00','刷屏') 
+2013-09-02 20:17:02: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:01','刷屏') 
+2013-09-02 20:17:02: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:05','刷爆他') 
+2013-09-02 20:17:03: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:05','刷爆他') 
+2013-09-02 20:17:03: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:05','刷爆他') 
+2013-09-02 20:17:04: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:06','刷爆他') 
+2013-09-02 20:17:04: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:06','刷爆他') 
+2013-09-02 20:17:04: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:06','刷爆他') 
+2013-09-02 20:17:04: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:04','刷屏') 
+2013-09-02 20:17:05: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:17:07','刷爆他') 
+2013-09-02 20:17:16: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:15','刷屏') 
+2013-09-02 20:17:17: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:16','刷屏') 
+2013-09-02 20:17:18: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:17','刷屏') 
+2013-09-02 20:17:18: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:18','刷屏') 
+2013-09-02 20:17:19: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:18','刷屏') 
+2013-09-02 20:17:20: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:19','刷屏') 
+2013-09-02 20:17:20: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:19','刷屏') 
+2013-09-02 20:17:20: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:20','刷屏') 
+2013-09-02 20:17:21: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:20','刷屏') 
+2013-09-02 20:17:21: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:21','刷屏') 
+2013-09-02 20:17:22: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:21','刷屏') 
+2013-09-02 20:17:22: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:22','刷屏') 
+2013-09-02 20:17:23: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:22','刷屏') 
+2013-09-02 20:17:23: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:23','刷屏') 
+2013-09-02 20:17:24: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:23','刷屏') 
+2013-09-02 20:17:24: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:24','刷屏') 
+2013-09-02 20:17:25: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:24','刷屏') 
+2013-09-02 20:17:25: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:25','刷屏') 
+2013-09-02 20:17:26: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:25','刷屏') 
+2013-09-02 20:17:26: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:26','刷屏') 
+2013-09-02 20:17:27: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:26','刷屏') 
+2013-09-02 20:17:27: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:27','刷屏') 
+2013-09-02 20:17:28: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:27','刷屏') 
+2013-09-02 20:17:29: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:17:28','刷屏') 
+2013-09-02 20:19:03: 1005030218(125.221.225.208) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: onG8/IDwU30tuoSnCEKcbw==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:21:04: 1005030213(125.221.225.206) has disconnected. 
+2013-09-02 20:21:12: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: sJzuI7NR6EfxggnMBIBCvA==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:23:20: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-02 20:23:19','helloworld') 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 9zPboqDgACDr23hkCx+Ohg==
+Cookie: PHPSESSID=erpa6likg7qan89htc75l4hop2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:23:32: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: naMukGfV2zXXv0g6vm50+A==
+Cookie: PHPSESSID=erpa6likg7qan89htc75l4hop2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: m3S9bEmCgkiIf8V8gbEZ4Q==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:23:44: 1005030216(125.221.225.251) has disconnected. 
+2013-09-02 20:23:49: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: MMRH33I/RTvXil7hWoE5aQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:23:51: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 9Cv63o5byaVE3uLxvSbsTQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:23:52: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: OHjxBucRVxfZ8Sg1eQovOw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:23:54: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 0jrgSkgbAKrmLNzk9v8Qlg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: KEvke57lOx98RR1B1KfAZg==
+Cookie: PHPSESSID=hnqv283fe8rbaobfcojibqbqm3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:23:59: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Yi7cm69FBknMqAX4XU1j2w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:24:11: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:24:10','登录/注册 - 科大FM http://125.221.225.210/hnust2/index.php/Manage/index.html') 
+2013-09-02 20:24:14: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 6hDfopHS61tZbOVY2cSoxQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:24:19: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:24:18','刷屏开始') 
+2013-09-02 20:24:41: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Bz1GnYKW+6xTwV7lEWtp5g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: XgB9Iprezxl0/W28Oi52vg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+Cookie: PHPSESSID=r7egqrdaffm33og83ev2i2rei4
+
+ 
+2013-09-02 20:24:55: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-02 20:24:54','地对地导弹') 
+2013-09-02 20:24:56: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 20:24:56','我草') 
+2013-09-02 20:25:02: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-02 20:25:02','擦') 
+2013-09-02 20:25:03: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 20:25:03','你们看得到我吗') 
+2013-09-02 20:25:17: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-02 20:25:16','fuck') 
+2013-09-02 20:25:17: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:25:16','登录/注册 - 科大FM http://125.221.225.210/hnust2/index.php/Manage/index.html') 
+2013-09-02 20:25:24: 1005030218(125.221.225.208) has disconnected. 
+2013-09-02 20:25:30: 1005030213(125.221.225.210) has disconnected. 
+2013-09-02 20:25:35: 1005030213(125.221.225.206) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: V1Mpa7ndKqZlmBQcYIc+hQ==
+Cookie: PHPSESSID=erpa6likg7qan89htc75l4hop2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:25:48: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-02 20:25:48','我去啊') 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: I8nftpfalG47ofLJ9mPcnw==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:26:17: 1005030213(125.221.225.206) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: MWjnl0IGa23S7eRqPwowxA==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:27:37: 1005030213(125.221.225.206) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: DWHYtXc3cQjKmws4+x+wwQ==
+Cookie: PHPSESSID=hnqv283fe8rbaobfcojibqbqm3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:28:22: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:28:25','你妹') 
+2013-09-02 20:28:25: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:24','12131414') 
+2013-09-02 20:28:32: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:28:35','渣渣') 
+2013-09-02 20:28:33: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:32','dawafaf') 
+2013-09-02 20:28:50: 1005030216(125.221.225.251) has disconnected. 
+2013-09-02 20:28:53: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:52','开刷') 
+2013-09-02 20:28:55: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:54','开刷') 
+2013-09-02 20:28:56: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:55','开刷') 
+2013-09-02 20:28:56: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:55','开刷') 
+2013-09-02 20:28:56: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:55','开刷') 
+2013-09-02 20:28:57: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:56','开刷') 
+2013-09-02 20:28:57: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:56','开刷') 
+2013-09-02 20:28:57: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:57','开刷') 
+2013-09-02 20:28:58: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:57','开刷') 
+2013-09-02 20:28:58: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:57','开刷') 
+2013-09-02 20:28:59: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:58','开刷') 
+2013-09-02 20:28:59: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:58','开刷') 
+2013-09-02 20:28:59: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:58','开刷') 
+2013-09-02 20:29:00: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:59','开刷') 
+2013-09-02 20:29:00: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:28:59','开刷') 
+2013-09-02 20:29:01: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:00','开刷') 
+2013-09-02 20:29:01: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:00','开刷') 
+2013-09-02 20:29:01: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:00','开刷') 
+2013-09-02 20:29:02: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:01','开刷') 
+2013-09-02 20:29:02: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:01','开刷') 
+2013-09-02 20:29:02: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:01','开刷') 
+2013-09-02 20:29:03: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:29:02','开刷') 
+2013-09-02 20:29:35: 1005030218(125.221.225.208) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: o2HiD3DqlDm3DNgJECskpA==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: FIW9+Gejy801xEw9KlVp4w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: 16o1/00PlnktPY5zvgkGmw==
+Cookie: PHPSESSID=ipqj3dm063691kp5a7i77pajb2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:31:10: 1005030213(125.221.225.206) has disconnected. 
+2013-09-02 20:31:12: 1005030216(125.221.225.251) has disconnected. 
+2013-09-02 20:31:12: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: aiLR8ALV3ouqtZvpaHbqRw==
+Cookie: PHPSESSID=erpa6likg7qan89htc75l4hop2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: uEMEY/DgZcRzVgcD7QvNmA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:31:21: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: DjnvMMA7ULYYtqMSf+I+DA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:31:27: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:31:26','123') 
+2013-09-02 20:31:30: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:31:29','23444') 
+2013-09-02 20:31:32: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:31:31','2314154') 
+2013-09-02 20:31:33: insert into chatrecords(speaker,time,content) values(1005030216,'2013-09-02 20:31:35','哈哈') 
+2013-09-02 20:31:35: insert into chatrecords(speaker,time,content) values(1005030218,'2013-09-02 20:31:34','5151566') 
+2013-09-02 20:31:37: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: TNkE2RF6ecGYEoPqdZAEhA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:31:52: 1005030216(125.221.225.251) has disconnected. 
+2013-09-02 20:32:13: 1005030218(125.221.225.208) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: OrrlaVTqw1wj6hWnJ+wH0w==
+Cookie: PHPSESSID=ipqj3dm063691kp5a7i77pajb2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: s3vBJ9Mr3N/alNBfOJU5zA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=7p1mcq9b5gm2jq6db25qfb9193
+
+ 
+2013-09-02 20:32:27: 1005030216(125.221.225.251) has disconnected. 
+2013-09-02 20:32:27: 1005030218(125.221.225.208) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: /HR/5z5PJIykTyeDFLd6Kw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Cookie: PHPSESSID=n7t83ciuju6032qu7cujh58ti3
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: oQEifTFls09ZiCvhUP3nwQ==
+Cookie: PHPSESSID=qh2hq7hskmr4s63bgf2u9aa8n3
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:37:33: 1005030211(125.221.225.209) has disconnected. 
+2013-09-02 20:48:55: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: a/fak78tGVGWKi5158QMdw==
+Cookie: PHPSESSID=erpa6likg7qan89htc75l4hop2
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 20:48:56: 1005030213(125.221.225.210) has disconnected. 
+2013-09-02 20:53:22: 1005030213(125.221.225.206) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: H5yT5llPBjCItYdPXkVBYQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+Cookie: PHPSESSID=hd4bi55muq02698ffe7ol56h54
+
+ 
+2013-09-02 21:26:04: 1005030216(125.221.225.251) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: g7x09I+Zni83QXTp4asd5w==
+Cookie: PHPSESSID=mq4i9j6q1a4igm0ffg2t62qce0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: ZVc+lD6bipyiKXKke4DArg==
+Cookie: PHPSESSID=2pmj430jpbpar6036rkuncou01
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 22:08:47: 1005030218(125.221.225.208) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.210:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.210
+Sec-WebSocket-Key: c/LfIggyH6nxT5PiXzQozQ==
+Cookie: PHPSESSID=mq4i9j6q1a4igm0ffg2t62qce0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-02 22:13:49: 1005030213(125.221.225.210) has disconnected. 
+2013-09-02 22:22:43: 1005030213(125.221.225.210) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Ef9FtJkUDeQs10o0CDUAiA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=u6ch5jedhpa0q2plnfvp3u4s85
+
+ 
+2013-09-06 16:06:38: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Hv22MXaBN5jur4OZkCONVQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=u6ch5jedhpa0q2plnfvp3u4s85
+
+ 
+2013-09-06 16:06:41: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: pg8skYXAbXXSpyHTqWFGmQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=u6ch5jedhpa0q2plnfvp3u4s85
+
+ 
+2013-09-06 16:06:49: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Nvb0BK+cSkD3LmLm9aP8DA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=u6ch5jedhpa0q2plnfvp3u4s85
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: +8BIrC9WwGP0zeIzrHZkBw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+Cookie: PHPSESSID=v2m06iikdm6lpfg3co6hfa2097
+
+ 
+2013-09-06 16:06:57: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:06:57','哈哈') 
+2013-09-06 16:07:10: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:07:10','嘻嘻') 
+2013-09-06 16:07:15: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:07:15','呵呵') 
+2013-09-06 16:07:17: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:07:17','嘿嘿') 
+2013-09-06 16:07:20: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:07:20','呜呜') 
+2013-09-06 16:07:22: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-06 16:07:25','测试聊天') 
+2013-09-06 16:07:31: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-06 16:07:34','还可以') 
+2013-09-06 16:07:47: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-06 16:07:50','我很长长长长长长长长长长长长长长长长长长长长') 
+2013-09-06 16:08:00: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.210:8888
+Origin: http://125.221.225.210
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: loIjeq5bHwR1VHK1vEwE1A==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=u6ch5jedhpa0q2plnfvp3u4s85
+
+ 
+2013-09-06 16:08:35: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-06 16:08:37','这是测试数据') 
+2013-09-06 16:08:38: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-06 16:08:38','咿呀') 
+2013-09-06 16:09:15: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-06 16:09:18','上面这条灰色背景消息来自其他成员') 
+2013-09-06 16:09:34: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: RvZcbLc7i9WiXgJOULV6pQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:35:06: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: MxlAjIWS6tvqlpN4zu/fKA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:37:21: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: JGaWgQfR8WiKRtkOELbA/A==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:50:08: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: RXHSxzxaI60UtmRPL2UpYA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:52:05: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ahVU2JQIbpmXAjYri9wRgA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:54:13: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: KdldESyv0vPCODU+PhkJRA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 20:59:16: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 05dng0WnWuzM5EznaIl/EA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:00:00: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: QyL6WVwmN2sDJbxq7IE9Tw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:00:48: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: hgj8Z9V0/lIE+N58nGItcA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:02:14: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 4i9hkcoWm0RgSyma+3aQ2w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:08:01: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: IC1kH6wZpdz1I7DHcf0xsg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:25:21: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: nX1ypqezoHf9h8SYK+NK2w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:25:25: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 4gWKLUlE272mz9+dSyrD2w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:25:32: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: vyCzpMfV4uboCR0Sa24qdQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:25:58: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: GYGKwomUY+BGEUghZHg97w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:26:18: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: IawdsL3IC5VcCmZmxnIATA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:26:29: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: HiyHu0Gy8Z2V+i28pwRCkA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:27:11: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: eSnA0abBe7MX7P0N7U5+VA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:29:53: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: lJTy2K//nLKFXLA+nH9vkA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:36:59: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: rLy+E4ZwjHYv6H3O+CsZRA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:37:39: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: TZh6AQ+WHqoeZXnKc1zQmw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:37:53: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: xFssJEdudQFh0ntCYhLfYw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=niuas08phpu2cjjq96pns61o54
+
+ 
+2013-09-16 21:43:31: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 5kS9uolDyaPThi12a+7O6g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=4c7q6olf6qfmiv1hmae77dqh91
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: E3x2k57AZJCLy8YYN+m6WQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=4c7q6olf6qfmiv1hmae77dqh91
+
+ 
+2013-09-17 12:09:26: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-17 12:09:26','你好啊') 
+2013-09-17 12:09:31: insert into chatrecords(speaker,time,content) values(1005030211,'2013-09-17 12:09:31','呵呵呵') 
+2013-09-17 12:09:44: 1005030213(125.221.225.209) has disconnected. 
+2013-09-17 12:09:45: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ZQu97gAqf5RDOuSVFI7QKA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=o196riocudtne01fd53mis6kc1
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ZrvZfKW2JWI4AHwb5V6qvw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=o196riocudtne01fd53mis6kc1
+
+ 
+2013-09-17 15:17:56: 1005030213(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: mmKKzKEa+JLl7owd3Hxo6A==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=v2sk418nb267io198verqhh7n1
+
+ 
+2013-09-17 15:18:17: insert into chatrecords(speaker,time,content) values(1005030213,'2013-09-17 15:18:17','hahah') 
+2013-09-17 15:18:35: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: AEkUmUA8Fhax2bFBMnuIFQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+Cookie: PHPSESSID=v2sk418nb267io198verqhh7n1
+
+ 
+2013-09-17 15:45:43: 1005030211(125.221.225.209) has disconnected. 
+2013-09-17 16:20:34: 1005030213(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: bPzjNwIXeZacCljFHtB1Jg==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: Xe4Qql8BkIaJZjgMj9uGnw==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 15:42:44: 1005030213(125.221.225.209) has disconnected. 
+2013-09-18 15:42:48: 1005030213(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: yqp+7vdMEjLubnFbA3BREg==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: sVqLzXMM6oGXRSfJcdZ+WA==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 15:43:50: 1005030213(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: MwnJ+6RfBaZQUQtaEpHlbg==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 15:43:59: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 125.221.225.209:8888
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: V0qwM8lgqKwidc17r8OGxg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Cookie: PHPSESSID=0ldkpe467ughq4gn1rcg3vdq84
+
+ 
+2013-09-18 15:46:30: 1005030213(125.221.225.209) has disconnected. 
+2013-09-18 15:49:32: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: fWQXxMqcgN10dC+ngAR+Qw==
+Cookie: PHPSESSID=uts9j1eumj0vnrr4oqp80ef447
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 16:03:48: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: ghphlTo3wvLWJtsgLk9NoA==
+Cookie: PHPSESSID=grd3i3tiba5rhctvcgnuaq7jj0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 16:04:44: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: Kwf1CLTVdTKuE1/ZGOGYbw==
+Cookie: PHPSESSID=grd3i3tiba5rhctvcgnuaq7jj0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 16:08:12: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: 2bjsbdnBFr4qCp7sZkPN8A==
+Cookie: PHPSESSID=grd3i3tiba5rhctvcgnuaq7jj0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 16:08:17: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 125.221.225.209:8888
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://125.221.225.209
+Sec-WebSocket-Key: ru7IzeX6Lo1s255QYtZGgQ==
+Cookie: PHPSESSID=grd3i3tiba5rhctvcgnuaq7jj0
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2013-09-18 16:38:34: 1005030211(125.221.225.209) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 2+NnLnrfR2SS0UPp2sTUqA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ElR+swfPfMzbBinB7Yo4KQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: qazwkJd3+D2wvKY23Z5Krg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: HCmwsgo23Qtra38M5SXyTQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 11:26:50: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 11:26:50','asdf') 
+2014-05-17 11:26:57: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:26:57','aaa') 
+2014-05-17 11:26:59: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:26:59','a') 
+2014-05-17 11:27:00: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:00','a') 
+2014-05-17 11:27:00: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:00','a') 
+2014-05-17 11:27:01: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:01','a') 
+2014-05-17 11:27:01: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:01','a') 
+2014-05-17 11:27:01: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:01','a') 
+2014-05-17 11:27:01: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:01','a') 
+2014-05-17 11:27:02: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 11:27:01','a') 
+2014-05-17 11:27:46: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: HFhaWhv2OkBfkhfiJXO8pQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 11:27:47: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: w7wqJAuv604aH/0z1Mv7gQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 11:27:48: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: J9CFaAU3nrKn01U3GLu35Q==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 11:28:09: 1005030213(127.0.0.1) has disconnected. 
+2014-05-17 12:06:30: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: UCWfvp01UQWnw0qbqqYjSQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: axgz/V+EfOokQMxPJ4giZg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:09:00: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:09:00','a') 
+2014-05-17 12:09:10: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:09:10','aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa') 
+2014-05-17 12:09:16: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:09:16','aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa') 
+2014-05-17 12:10:45: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:10:45','asdf') 
+2014-05-17 12:10:51: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:10:51','asdf') 
+2014-05-17 12:14:23: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:14:23','aasdf啊') 
+2014-05-17 12:14:46: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:14:46','啊') 
+2014-05-17 12:15:01: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Zuy+RdmDYTIJLWzibcTk1g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 12:17:48: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:17:48','a') 
+2014-05-17 12:18:08: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:18:08','你好啊') 
+2014-05-17 12:21:54: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ZhlxlAcLEwT1COeIv1EWqw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 12:21:59: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:21:59','啊') 
+2014-05-17 12:22:31: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:22:31','你好啊, 委哥') 
+2014-05-17 12:22:53: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:22:53','你好!') 
+2014-05-17 12:23:59: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:23:59','啊') 
+2014-05-17 12:24:06: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 3BptR3EMJYoe165c4RfBzQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:24:12: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:24:12','啊') 
+2014-05-17 12:25:06: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: oZxMdZj0+Yb9C7nRGwyuzA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:25:11: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:25:11','啊') 
+2014-05-17 12:25:17: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:25:17','啊') 
+2014-05-17 12:27:10: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 2R8PIticNDLeSOpwP1oY2A==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:27:15: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:27:15','asdf') 
+2014-05-17 12:27:18: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: dLHcxlNnTz5r+QNugVfmzQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:27:22: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:27:22','asdf') 
+2014-05-17 12:28:22: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 6ZURpgCOXgMmMt0H8U3oEQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:28:28: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:28','asdf') 
+2014-05-17 12:28:31: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:31','a') 
+2014-05-17 12:28:32: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:32','a') 
+2014-05-17 12:28:34: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:34','dan') 
+2014-05-17 12:28:36: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:36','wo') 
+2014-05-17 12:28:37: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:37','cao') 
+2014-05-17 12:28:39: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:28:39','ni') 
+2014-05-17 12:29:15: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:29:15','你说什么啊?  没听青菜,  可以不可以在说一遍啊啊啊啊') 
+2014-05-17 12:30:09: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:30:09','啥????????????') 
+2014-05-17 12:30:19: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: lfzuBbyzFqIdGM9wH75wJA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 12:30:24: insert into chatrecords(speaker,time,content) values(1005030211,'2014-05-17 12:30:24','啥') 
+2014-05-17 12:30:43: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 12:30:43','干!') 
+2014-05-17 12:31:22: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 8rFodIuhMPJfYZMn2tlEzQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:31:48: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 31hlgahX6hgrb+EFLWr5NQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:35:52: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: yScus7jeZIi5M2gxoZTYaA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:36:03: 1005030213(127.0.0.1) has disconnected. 
+2014-05-17 12:37:58: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dRNi9JTccPn8aVYDPI1A+g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 12:38:59: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: Q0N5DPGSZY4qkpo9sptZ3A==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 12:46:36: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: D41HC8seLpt1wY5SL0kL3Q==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:07:38: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 6Z1cGDJYFpR+Vgvmc9tYhg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:07:49: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: IQdSNx+ycwWZIDsxKceiqg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:08:09: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: ux0oGH9yvcPp1+zicZWtgw==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dQb/g4OY9x7jUDMbmQ6lGw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 13:08:32: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: gmbe2kR45rR6htajbR7XuQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 13:08:57: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 60Pk5uehzgmRMIIE86GWaA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:09:19: 1005030213(127.0.0.1) has disconnected. 
+2014-05-17 13:09:22: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: v/tSb4vR4UcQzpYxhvifMQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:09:54: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: KYpnKWMudKmIwDqimJ+uOg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:10:01: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: obmIwl20Bqpr+paYfTIAwA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:10:03: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: oSzwFxqGB9PSFq0aJcGuQA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:10:09: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: A9RDND1P4AHcSUE1IUUINQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:10:25: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: w5l5zHvj0zZH1dT+/5iYaQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:10:48: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: MhOw/f2wHdfVCGtO0d3Q5A==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:13:43: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: 5gOVeI2FmkrVvUSL8crhHA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:13:45: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: kvx5f7nk+UekI+Yerg7Uqg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:13:50: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: r6QBbQT1YKrvj6VfSpF08g==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: v5Zyaq5A0Eqk+Mse+a59GA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 13:19:59: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: YpiPGHEVtk6xvZd9D6Y4fw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 13:20:04: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: efArKsNlMunX/Dp35pJ1FA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:20:06: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: Vsqllb7WlgcT8S/ByazUnQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:21:46: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: rMn9gsFy4T/lE9FaMLdkQA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:23:15: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: iWXlZkzFGEW8gyoWAz+DbA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:23:17: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: b4AfSbc7xY+/5vtSxnpWSA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:23:19: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: iFWOd2hl9wB7fOah5KRxcA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:29:33: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: YWSUa/FF/9EOxc5A8FP6gA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:31:27: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: Pj+A+tp/7BrESnK19njhDg==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:31:28: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: AuPmznmLgXd+A5MTFTIwAQ==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:31:29: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: g8SOq27M9tktWuTqbkkEDw==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:32:00: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: hTv2Eh7NEWHYxoEO/Ed6SQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 192.168.137.173:8888
+Origin: http://192.168.137.173
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 4rzFWtP8qG8CTpNPMPpraQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+Cookie: PHPSESSID=9b6f619orle3kbstm9vmr9c0h3
+
+ 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: hNPZoaCzj8vW4zqH29MGTg==
+Cookie: PHPSESSID=t4js6i20mqgpk8en64ikkj1eq1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 13:57:50: insert into chatrecords(speaker,time,content) values(1005030213,'2014-05-17 13:57:49','你好啊') 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: IZhKdZKufOYXm+jgcFVOlA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:23:52: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: BMzUVXIAQTJamKNaCgRqkA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:23:53: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: ElQT/M8WaPLOrmqTQpKNHA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:23:53: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: D4kmY05k2LD+NLPcX140Iw==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:04: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: C2uLSXSvgITwwtEPtr3Dmg==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:13: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: +mo0LrW8oL7yJH9LVNPqhA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:14: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: TUdJpZyzsil7FPvx56+utA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:14: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: 0b+8LTOZWVvf9ahnExoyQg==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:15: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: ynLXQgYNmQ+xd8BaJ/LvUA==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:16: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: N7Tw9mvKtAhptx8t9HUTWw==
+Cookie: PHPSESSID=npm0q0gdj4jkkccvfa48fdmel6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:24: 1005030213(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: 7C8EkykWSAJaokToTGeUaw==
+Cookie: PHPSESSID=8mcmjic9cpj68s1k5sfh8ro8j6
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:24:41: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: JKJDDbyUtWERFlh/23SjrA==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:27:13: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: JzumVOoIAsnsoOngDwU39Q==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:27:19: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: +TqPFQw5Kkm9ghD8jScoRw==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:27:23: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: xHil0dnAT0aqsD4IClLKDg==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:34:33: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: kk1h8EECFVeY5qjJBY+sYg==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:35:52: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: 3PzzFtcaJdmZVEjmW43ROQ==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:35:53: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: 4hKhxFzaaNyU0VZI+jeB2w==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:35:54: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: UEj2s1cPQR5sq4l4u07Lsw==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 14:35:57: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 192.168.137.173:8888
+Origin: http://192.168.137.173
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ctuxAtJfGHfT5FaHrW4lhw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+Cookie: PHPSESSID=9b6f619orle3kbstm9vmr9c0h3
+
+ 
+2014-05-17 17:29:46: 1005030213(192.168.137.173) has disconnected. 
+2014-05-17 17:55:13: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 192.168.137.173:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://192.168.137.173
+Sec-WebSocket-Key: 3ymjf7F9+R2qHZcgOyXBNw==
+Cookie: PHPSESSID=6svisuat86tla25g6u7suucrh1
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-17 17:55:34: 1005030211(192.168.137.173) has disconnected. 
+2014-05-17 18:01:04: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 192.168.137.173:8888
+Origin: http://192.168.137.173
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 1L6PcQrAKaJk4+fpU7icdA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+Cookie: PHPSESSID=9b6f619orle3kbstm9vmr9c0h3
+
+ 
+2014-05-17 19:08:34: 1005030211(192.168.137.173) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: zo+7cN/MS92J9mnnNLYBNw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 20:56:41: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 4CogPonFSeQgUgNIuOPlmg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-17 20:57:09: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ZQVoHnV3ftX7TYQPYHUixQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 

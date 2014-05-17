@@ -1,0 +1,19 @@
+.userNumber{
+	font-weight: bolder;
+    width: 10%;
+}
+.email{
+    width: 20%;
+}
+.sex{
+    width: 10%;
+}
+.major{
+    width: 15%;
+}
+.grade{
+    width: 10%;
+}
+.option{
+    width: 30%;
+}

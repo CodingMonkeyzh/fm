@@ -1,0 +1,121 @@
+#head{
+    width: 100%;
+    float: left;
+    padding-bottom: 1px;
+    border-bottom: 1px solid  #ddd;
+}
+#icon{
+	width: 36px;
+	height: 36px;
+	background: url("../Images/icon-radio.png") no-repeat center;
+	float: left;
+}
+h2.head-title{
+	color: #898989;
+    display: inline-block;
+    float: left;
+    font-size: 25px;
+    line-height: 36px;
+    padding: 0 1em;
+}
+#upload{
+    margin-top: 10px;
+    width: 550px;
+    float: left;
+}
+#upload-info{
+    padding-bottom: 20px;
+    border: 1px solid #ddd;
+    float: left;
+}
+    #upload-info #lyric {
+        width: 400px;
+        height: 50px;
+    }
+    #upload-info .lyric_label{
+        vertical-align: top;
+    }
+#upload span{
+    margin-top: 10px;
+    float: left;
+    width: 548px;
+    display: block;
+}
+#upload span p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+h2.module-head{
+    padding: 0.5em 0.5em;
+    background: #ddd;
+    color: #1972CA;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #787878;
+    border-radius: 3px 3px 0 0;
+}
+#upload span label{
+    margin-left: 10px;
+   font-size: 15px;
+   padding-top: 10px;
+}
+#upload span input[type='text']{
+    width: 200px;
+    height: 25px;
+}
+input[type='button'],input[type='submit']{
+    background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3;
+    border: 1px solid #BBBBBB;
+    border-radius: 3px 3px 3px 3px;
+    color: #333333;
+    cursor: pointer;
+    font-size: 12px;
+    height: 26px;
+    line-height: 25px;
+    margin-left: 15px;
+    padding: 0 5px;
+    white-space: nowrap;
+    position: relative\0;
+    top: 3px\0; 
+}
+select{
+    height: 25px;
+    width: 100px;
+    font-size: 15px;
+}
+a.edit{
+    margin-left: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color:#1B6CBB;
+}
+a.edit:hover{
+    color: orange;
+    text-decoration: underline;
+}
+._submit{
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+#localImag{
+     margin-top: 10px;
+    border: 5px solid #ddd;
+    float: left;
+}
+#img_prev{
+    width: 100px !important;
+    height: 100px;
+    float: left !important;
+}
+.cover-label{
+    margin-top: 30px;
+   padding-right: 10px;
+   float: left;
+}
+#img-scan{
+    float: left;
+    margin-left: 2px;
+    margin-top: 85px;
+    display: inline-block;
+}
