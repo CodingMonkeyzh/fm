@@ -170,11 +170,11 @@ body{
 		.container input{
 			display: inline;
 			width: 280px;
-			height: 40px;
-			line-height: 40px;
+			height: 20px;
+			line-height: 20px;
 			margin: 20px 25px;
 			font-family: "Verdana";
-			padding: 0 10px;
+			padding: 10px 10px;
 			border: none;
 			background: none;
 			background: rgba(0,0,0, 0.5);

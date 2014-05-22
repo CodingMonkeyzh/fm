@@ -1,39 +1,40 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+	<meta charset="UTF-8">
 	<title>登录-后台管理系统</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<load file="__PUBLIC__/Css/bootstrap.css" />
+	<load file="__PUBLIC__/Css/bootstrap-responsive.css" />
+	<load file="__PUBLIC__/Css/flat-ui.css" />
 	<load file="__PUBLIC__/Css/login.css" />
 	<load file="__PUBLIC__/Js/jquery.js" />
 	<load file="__PUBLIC__/Js/login.js" />
 </head>
 <body>
-<div id="main">
-	<div id="head">
-		<img src="__PUBLIC__/Images/kd3.png" />
-	</div>
-	<div id="panel">
-		<div id="info">
-			<form action="__URL__/verify" method="post" name="userInfo">
-				<span>
-					<label>用户名</label>
-					<input type="text" id="username" name="username"/>
-				</span><br />
-				<span>
-					<label>密　码</label>
-					<input type="password" id="password" name="password"/>
-				</span>
-			</form>
+<div class="backgroud-wrap">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-4">
+				<div class="panel panel-primary form-container">
+					<div class="panel-heading form-heading">登陆后台管理系统</div>
+					<div class="panel-body">
+						<form role="form" action="__URL__/verify" method="post" name="userInfo">
+						  <div class="control-group form-group">
+						    <label for="username">用户名</label>
+						    <input type="text" class="form-control input-lg" id="username" placeholder="请输入用户名" name="username">
+						  </div>
+						  <div class="control-group form-group">
+						    <label for="password">密　码</label>
+						    <input type="password" class="form-control input-lg" id="password" placeholder="请输入密码" name="password">
+						  </div>
+						  <button type="submit" class="btn btn-primary btn-block btn-lg">登陆</button>
+						  <a href="__ROOT__/index.php/Music/fm" class="login-link">返回到电台首页</a>
+						</form>	
+					</div>
+				</div>
+			</div>
 		</div>
-		<div id="login">
-			<span onclick="submit()"><font class="cn">登录</font><font class="en">LOGIN</font></span>
-		</div>
-		<div id="logo">
-		</div>
-	</div>
-	<div id="backtoindex"><a href="__ROOT__/index.php/Music/fm">←科大FM</a></div> 
-	<div id="copyright">
-		<img src="__PUBLIC__/Images/3.png" />
 	</div>
 </div>
 </body>
