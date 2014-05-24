@@ -22,12 +22,12 @@ function wsOnMessage($clientID, $message, $messageLength, $binary) {
 
 	//The speaker has been baned, you need let him or her know
 	if($users[$clientID]->ban == 1 && $msg->type != "join"){
-		$return["message"] = "You have been banned words, please contact the administrators!";
+		$return["message"] = "你已经被禁言了,请联系管理员!";
 		$Server->wsSend($clientID,json_encode($return));
 	}
 	//The speaker is the only person in the room. Don't let them feel lonely.
 	elseif ( sizeof($Server->wsClients) == 1) {
-		$return["message"] = "There isn't anyone else in the room, but I'll still listen to you, {$users[$clientID]->userName}. --Your Trusty Server";
+		$return["message"] = "嗨! {$users[$clientID]->userName}, 聊天室就你一个人, 你不能跟任何儿聊天, 快叫你的小伙伴加入进来吧!";
 		$Server->wsSend($clientID, json_encode($return));
 	} else {
 		//Get user's photo information;

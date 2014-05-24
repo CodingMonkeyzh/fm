@@ -16,10 +16,11 @@
 				<h2>登录</h2>
 				<input type="text" id="userNomber" name="userNomber" value="学号" onfocus="if (value =='学号'){value =''}"  
             onblur="if (value ==''){value='学号'}" />
-				<input type="password" id="userPaswd" name="userPaswd" value="请输入密码" onfocus="if (value =='请输入密码'){value =''}"  
-            onblur="if (value ==''){value='请输入密码'}"  />
+				<input type="password" id="userPaswd" name="userPaswd" placeholder="密码" />
 				<!-- <input type="text" id="captcha" name="captcha" />
 				<img src="" alt="验证码"> -->
+				<!-- value="请输入密码" onfocus="if (value =='请输入密码'){value =''}"  
+            onblur="if (value ==''){value='请输入密码'}" -->
 				<button type="submit" id="login">登录</button>
 			</form>
 		</div>
@@ -28,10 +29,8 @@
 				<h2>新用户注册</h2> 
 				<input type="text" id="reg_userNomber" name="reg_userNomber" value="学号" onfocus="if (value =='学号'){value =''}"  
             onblur="if (value ==''){value='学号'}" />
-				<input type="password" id="reg_userPaswd" name="reg_userPaswd" value="请输入密码" onfocus="if (value =='请输入密码'){value =''}"  
-            onblur="if (value ==''){value='请输入密码'}" />
-				<input type="password" id="reg_userPaswdAgain" name="reg_userPaswdAgain" value="请输入密码" onfocus="if (value =='请输入密码'){value =''}"  
-            onblur="if (value ==''){value='请输入密码'}" />
+				<input type="password" id="reg_userPaswd" name="reg_userPaswd" placeholder="输入密码" />
+				<input type="password" id="reg_userPaswdAgain" name="reg_userPaswdAgain" placeholder="确认密码" />
 				<!-- <input type="text" id="captcha" name="captcha" />
 				<img src="" alt="验证码"> -->
 				<button type="submit" id="register">注册</button>
@@ -40,8 +39,8 @@
 		<div class="conmmon">
 			<p>用其他账号登录:</p>
 			<ul>
-				<li><a href="http://douban.fm/partner/login?target=2"><i class="icon-weibo"></i> 新浪微博(不可用)</a></li>
-				<li><a href=""><i class="icon-renren"></i> 人人网(不可用)</a></li>
+				<li><a href="#"><i class="icon-weibo"></i> 新浪微博(不可用)</a></li>
+				<li><a href="#"><i class="icon-renren"></i> 人人网(不可用)</a></li>
 			</ul>
 			<p id="info">还没有账号？</p>
 			<button id="info_button">现在注册</button>
@@ -63,7 +62,7 @@
 			function(){
 				$(".loginPart").slideUp("400");
 				$("#userNomber").val('学号');
-				$("#userPaswd").val('请输入密码');
+				$("#userPaswd").val('');
 				$(".conmmon #info").html("已经拥有账号？");
 				$(".conmmon #info_button").html("现在登录");
 			},
