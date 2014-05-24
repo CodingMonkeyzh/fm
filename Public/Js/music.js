@@ -1,3 +1,4 @@
+$(function(e){
 var currentAngle = 0;
 var tempMarginTop = 0;
 var temp;
@@ -256,9 +257,19 @@ var currentSimilarMusicID;
 						$("#like").css("color","#e74c3c");
 					}
 				}else{
-					alert("caozuo失败!");
+					alert("操作失败!");
 				}
 			});
+		});
+
+		// 点击移入垃圾桶
+		$("#hate").click(function() {
+			var id = $("#musicID").val();
+			$.getJSON("/hnust2/index.php/Music/ihate", {id:id}, function(data) {
+				if(data.msg == "1") {
+					$("#nextSong").trigger("click");
+				}
+			})
 		});
 
 		// 点击"相似歌曲"
@@ -442,16 +453,18 @@ var currentSimilarMusicID;
 			$(this).css('background-image','url("/hnust2/Public/Images/bg_'+index +'.jpg")');
 		}).fadeIn(400);
 	};
+
+
+
+	/*TODO:  init function*/
+	initPlayer();
+	initSidebar();
+	initChatRoom();
+	rollList();
+	connectChatRoom();
+
+});
 	
 
 
-	$(document).ready(function(){
-		/*TODO:  init function*/
-		initPlayer();
-		initSidebar();
-		initChatRoom();
-		rollList();
-		connectChatRoom();
-
-		
-	})
+	

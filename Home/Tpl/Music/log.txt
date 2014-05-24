@@ -3532,3 +3532,747 @@ Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-d
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
 
  
+2014-05-24 16:02:34: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: abcvr0QwDK2apaazPnVCLg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 16:02:36: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 08BTWRYyfESsLqWuWgN2Rw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 16:39:52: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: +6uLMM6cK2x2IPou7UHOew==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 16:39:54: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 908ltFgnvpD225eHldndbQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:01:14: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 4trz0XRe3BliJHN+6syD+w==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:02:34: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: NfJnm/V/EwhaDyPKvAJxBg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:05:19: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: vfynRJ+RSgKwq73ZF2AExw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:05:45: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: LMNSqaxEAsWSBU2B8Lyv/g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:07:13: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: P8l9DDdZMSA5BE1itU9SCQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:10:30: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: eRlF88D1MI8rNsW5HntHtQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:10:57: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 9F7XZAg1UDansLmdgrla1Q==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:12:27: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: HbtDPfoefRULHzAw8OIC5A==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:13:41: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dwZKoSW3DnXkrzFOlHbDbg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:14:48: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: WdHUUW7POAZl05x7acvhFA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:15:04: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 7bZMgZQInJWkjwTVudeNjQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:16:02: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: B07Id6hgWi7d4wLXlB8fkA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:18:23: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: +y7jYzSkdwNwS+tIkOx1gA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:18:55: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: /tp1p0+OB6P+77QUjvqOZQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:19:59: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: iQcopngioStI5gPeqqooqg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:20:49: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: cVjpsn0jc7xZyWA0AqY0iw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:22:59: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: ht1nwFwydK6uT/6wrSkgHg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:24:55: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dg6+FcFDsXiaf74UkDu30Q==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:26:04: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: J5u9szA9Ib1maBYzQqhgUQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:26:31: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: cCYqEp4sRVFA2db2G2EyFQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:27:18: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: J1Y327SC66ZDSEIhGcDZlQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:28:52: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: http://localhost
+Sec-WebSocket-Key: nPH8UiboXQrppFYXFkbjYA==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+ 
+2014-05-24 17:30:48: 1005030213(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: kZL9kE8sdbnu5mWVGtUz2g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:35:49: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 1Ib+PCeghQlitrYhf2CyaQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:35:51: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Cn64FlTsZUguKNBVu7jKrg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:36:07: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 7nkAph1h1I8OibFnOM97yw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:36:28: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 5H/7HMZg6MYgx2Yf7gniOA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:37:56: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 2Qg4sPeYusu4o3y/8mB7zw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:38:12: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: lFtD99KrKZ63p6ArWQ/PJA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:40:08: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 5aA2zn89ZH0odOK7roDKqw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:40:44: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: T2C1wY8/jT3n1sLp9L3aug==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:41:33: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dG5Mapt+doaBsDm9LrtO6g==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:43:51: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: M9J5oxcLmHmhXhnx3uS3WQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:44:11: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: Hg6vKqYTpznHHHvmMjhNLw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:44:13: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: y1kgBvCpqLOExC1mq1omlA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:45:24: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: /MXpHYg+Hm3mj9O77yJYGQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:45:27: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: dd++oe9Blq2JTt7Kh+eIrw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:46:24: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 3b5C0Dc4nVY+/EsCl6VHoA==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:46:52: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: mbl7Lyoz6xNeFzS77O0nRg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:47:11: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: kNCDEEkIOzM7ek47tgY4bg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:50:04: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: BDP2MC6gxPQIeo7vzUVTdQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:50:24: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: 03ML0tmDMrSPUew6W/WTZg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:54:10: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: xcinsKaBxJZHELCEzYcKWg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:57:32: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: x0UqbsMDq3ndav/9ov5ufQ==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:59:24: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: s7MZ1gwEf/B5K2TSZLubqw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 17:59:50: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: K3IsEA03Hvtvm6hLOomcSw==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 18:02:37: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: fteOTECUTLTGBLkjKtt6fg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 18:03:49: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: a5U+j3dAQoGGmL164G8WXg==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 
+2014-05-24 18:04:18: 1005030211(127.0.0.1) has disconnected. 
+GET /hnust2/Home/Tpl/Music/server.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:8888
+Origin: http://localhost
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: zBgv3smUA5EoX2kNWoyS2Q==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits, x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+
+ 

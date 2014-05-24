@@ -55,7 +55,7 @@ function wsOnOpen($clientID)
 	global $Server;
 	$ip = long2ip( $Server->wsClients[$clientID][6] );
 
-	$Server->log( "$ip ($clientID) has connected." );
+	$Server->log( "$ip ($clientID) 加入了聊天室!" );
 }
 
 // when a client closes or lost connection
@@ -63,7 +63,7 @@ function wsOnClose($clientID, $status) {
 	global $Server, $users, $conn;
 	$ip = long2ip( $Server->wsClients[$clientID][6] );
 
-	$Server->log( "$ip ($clientID) has disconnected." );
+	$Server->log( "$ip ($clientID) 离开了聊天室!" );
 
 	file_put_contents('log.txt', date('Y-m-d H:i:s: ')."{$users[$clientID]->userNum}($ip) has disconnected. \r\n", FILE_APPEND);
 	//Send a user left notice to everyone in the room

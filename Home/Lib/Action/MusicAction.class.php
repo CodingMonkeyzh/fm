@@ -49,8 +49,15 @@ class MusicAction extends Action {
         }
 
         if($class != 0){
+            // $hateList = implode(",", json_decode($this->getHateList()));
+            $hasHateList = implode(",", $this->getHateList());
+            $hateList = '';
+            if(!empty($hasHateList)){
+                $hateList = " and musicID not in (".$hasHateList.")";
+            }
             $ms = M("music");
-            $result = $ms->where("musicClass=".$class)->select();
+            $result = $ms->where("musicClass=".$class.$hateList)->select();
+            $str = $ms->getLastSql();
 
         }else{ 
             $lovelist = $this->getLoveList();
@@ -66,6 +73,7 @@ class MusicAction extends Action {
         $return = $result[$rand_num];
         $return["musicLove"] = in_array($return["musicID"], $list) ? 1 : 0;
         $return["isSimilar"] = $isSimilar;
+        $return["lastSQL"] = $str;
 
     //    var_dump($return);
        
@@ -122,10 +130,61 @@ class MusicAction extends Action {
             echo json_encode($res);
         }
     }
+
+    // 歌曲黑名单
+    public function ihate(){
+        $musicID = $_GET['id'];
+        $user = $_SESSION["user"];
+        $ih = M("ihate");
+        $type = 0;  //已有收藏0,第一次收藏1
+        $clist = $ih->where("userNumber='".$user."'")->getField("hateList");
+        if(isset($clist) && !empty($clist)){
+            $nlist = json_decode($clist);
+            $nlist[] = $musicID;
+        }else{
+            $nlist = array($musicID);
+            $type = 1;
+        }
+        if(count($nlist) > 0){
+            $clist = json_encode($nlist);
+        }else{
+            $clist = '';
+        }
+        
+        $data["userNumber"] = $user;
+        $data["hateList"] = $clist;
+
+        $sql = '';
+        $sql_where = '';
+        if($type == 0){
+            $sql = 'UPDATE ihate ';
+            $sql_where = " WHERE userNumber='".$user."'";
+        }else{
+            $sql = 'INSERT INTO ihate ';
+        }
+        
+        $sql .= " SET hateList='".$clist."', userNumber='".$user."' ".$sql_where;
+        if($ih->execute($sql)){
+            $res['msg'] = 1;
+            echo json_encode($res);
+        }else{
+            $res['msg'] = 0;
+            echo json_encode($res);
+        }
+    }
+
     private function getLoveList(){
         $user = $_SESSION["user"];
         $ik = M("ilike");
         $arr = $ik->where("userNumber=".$user)->getField("collection");
+        $list = json_decode($arr);
+        return $list;
+    }
+
+    private function getHateList() {
+        $user = $_SESSION["user"];
+        $ih = M("ihate");
+        $arr = $ih->where("userNumber=".$user)->getField("hateList");
         $list = json_decode($arr);
         return $list;
     }
