@@ -203,11 +203,13 @@ var currentSimilarMusicID;
 				if(play==0){
 					rotation();
 					play = 1;
+					player.play();
 				}
 				else{
 					$("#coverImage").stopRotate();
 					currentAngle = $("#coverImage").getRotateAngle();
 					play = 0;
+					player.stop();
 				}
 			}
 		});
@@ -358,6 +360,9 @@ var currentSimilarMusicID;
 				$(".chatRoomHeader span i").removeClass("icon-angle-down").addClass("icon-angle-up");
 			}
 		);
+		$('#msgContent').bind('keydown', function(e) {
+			e.stopPropagation();
+		})
 		$(window).resize(function(){
 				chatRoomRcvHeight = $(window).height()-180;
 				chatRoomHeight = chatRoomRcvHeight + 130;
