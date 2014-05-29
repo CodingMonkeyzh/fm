@@ -120,35 +120,41 @@ var currentSimilarMusicID;
 
 			)
 			.done(function(json){
-				// 获取成功执行以下操作
-					musicID = json.musicID;
-					musicSinger = json.musicSinger;
-					musicAlbum = json.musicAlbum;
-					musicName = json.musicName;
-					coverImage = coverUrl + json.musicID + ".jpg";
-					musicSrc = musicUrl + json.musicID + ".mp3";
-					love = json.musicLove;
-					// alert("love form get:" + love);
-					setSongInfo(coverImage, musicSinger, musicAlbum, musicName, musicSrc, love, musicID);
-					player.play();
-					play = 1;
+				musicID = json.musicID;
+				musicSinger = json.musicSinger;
+				musicAlbum = json.musicAlbum;
+				musicName = json.musicName;
+				coverImage = coverUrl + json.musicID + ".jpg";
+				musicSrc = musicUrl + json.musicID + ".mp3";
+				love = json.musicLove;
+				setSongInfo(coverImage, musicSinger, musicAlbum, musicName, musicSrc, love, musicID);
+				player.play();
+				play = 1;
 
-					$("#similarMusicInfo .keyword").html(json.keyword);
-					$("#similarMusicInfo .emotionLevel").html(function() {
-						var content = '';
-						for(var prop in json.emotionInfo) {
-							if(prop != 'musicID') {
-								if(json.emotionInfo[prop] > 0) {
-							 		content += '<span style="background:#e74c3c; border-radius:3px; color:#FFFFFF">' + prop + ' : ' + json.emotionInfo[prop] + '</span>';
-								}else{
-							 		content += '<span>' + prop + ' : ' + json.emotionInfo[prop] + '</span>';
-								}
+				$("#similarMusicInfo .keyword").html(json.keyword);
+				$("#similarMusicInfo .emotionLevel").html(function() {
+					var content = '';
+					for(var prop in json.emotionInfo) {
+						if(prop != 'musicID') {
+							if(json.emotionInfo[prop] > 0) {
+						 		content += '<span style="background:#e74c3c; border-radius:3px; color:#FFFFFF">' + prop + ' : ' + json.emotionInfo[prop] + '</span>';
+							}else{
+						 		content += '<span>' + prop + ' : ' + json.emotionInfo[prop] + '</span>';
 							}
 						}
+					}
+					return content;
+				});
+				if(isSimilar) {
+					$('#recommendList').html(function() {
+						var content = '<li style="color:#FFFFFF">猜你喜欢:</li>';
+						$.each(json.recommendList , function(){
+							content += '<li>' + this.musicName + ' - ' + this.musicSinger + '</li>';
+						});
 						return content;
 					});
-					console.log(json);
-				})
+				}
+			})
 			.fail(function(textStatus, error){
 				// 获取失败
 				var err = textStatus + ", " + error;

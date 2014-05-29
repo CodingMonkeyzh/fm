@@ -37,19 +37,15 @@ class MusicAction extends Action {
 
         if($isSimilar) {
             $nextSimilar = $this->getSimilarMusic($musicID);
-            echo json_encode($nextSimilar);
-            exit();
             if($nextSimilar) {
-                // $em = M("emotionmusic");
-                // $emotionLevel = $em->where("musicID=".$nextSimilar['musicID']);
-                // echo json_encode($nextSimilar);
+                $em = M("emotionmusic");
+                $emotionLevel = $em->where("musicID=".$nextSimilar['musicID']);
                 echo json_encode($nextSimilar);
                 return ;
             }
         }
 
         if($class != 0){
-            // $hateList = implode(",", json_decode($this->getHateList()));
             $hasHateList = implode(",", $this->getHateList());
             $hateList = '';
             if(!empty($hasHateList)){
@@ -57,7 +53,6 @@ class MusicAction extends Action {
             }
             $ms = M("music");
             $result = $ms->where("musicClass=".$class.$hateList)->select();
-            $str = $ms->getLastSql();
 
         }else{ 
             $lovelist = $this->getLoveList();
@@ -73,9 +68,6 @@ class MusicAction extends Action {
         $return = $result[$rand_num];
         $return["musicLove"] = in_array($return["musicID"], $list) ? 1 : 0;
         $return["isSimilar"] = $isSimilar;
-        $return["lastSQL"] = $str;
-
-    //    var_dump($return);
        
         echo json_encode($return);
     }
@@ -201,12 +193,22 @@ class MusicAction extends Action {
                 $temp = $em->query($sql);
 
                 if($temp) {
+                    $idListStr = '';
+                    for($i = 0; $i < count($temp); $i++) {
+                        if($i == 0) {
+                            $idListStr .= "'".$temp[$i]['musicID']."'";
+                        }else{
+                            $idListStr .= ",'".$temp[$i]['musicID']."'"; 
+                        }
+                    }
+                    $recommendList = $ms->field('musicName, musicSinger')->where("musicID in (".$idListStr.")")->limit(3)->select();
                     $rand_num = mt_rand(0,count($temp)-1);
                     $nextMusicID = $temp[$rand_num]['musicID'];
                     $resultSql = 'select * from music as t1, emotionmusic as t2 where t1.musicID = t2.musicID and t2.musicID = '.$nextMusicID;
                     // $result = M() ->table(array('music'=>'t1','emotionmusic'=>'t2'))->where('t1.musicID='.$nextMusicID.' and t2.musicID='.$nextMusicID)->field('*');
                     $result = $ms->where("musicID=".$nextMusicID)->find();
                     $result["emotionInfo"] = $em->where("musicID=".$nextMusicID)->find();
+                    $result["recommendList"] = $recommendList;
                     // $res = $ms->query($resultSql);
                     $list = $this->getLoveList();
                     $result["musicLove"] = in_array($result["musicID"], $list) ? 1 : 0;
